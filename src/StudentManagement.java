@@ -10,7 +10,7 @@ public class StudentManagement {
     // JDBC URL, username, and password
     private static final String URL = "jdbc:postgresql://localhost:5432/recipeapp";
     private static final String USER = "postgres";  // Replace with your PostgreSQL username
-    private static final String PASSWORD = "golobull";  // Replace with your PostgreSQL password
+    private static final String PASSWORD = "";  // Replace with your PostgreSQL password
 
     public static void main(String[] args) {
         // Test the connection
